@@ -1,7 +1,7 @@
 # Mineclone 2 (5) Emerald Stuff [mcl_emerald_stuff]
  Adds emerald tools and armor to Mineclone 2 (5)
 
-![Screenshot](screenshot.png)
+![Screenshot](https://content.minetest.net/uploads/e6ac80362a.png)
 
 ## License
  Code licensed under GNU GPLv3 (see LICENSE file), media licensed under CC-BY-SA 4.0 (see [this](https://creativecommons.org/licenses/by-sa/4.0/))
