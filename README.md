@@ -1,4 +1,5 @@
 # Mineclone 2 (5) Emerald Stuff [mcl_emerald_stuff]
+[![ContentDB](https://content.minetest.net/packages/rudzik8/mcl_emerald_stuff/shields/downloads/)](https://content.minetest.net/packages/rudzik8/mcl_emerald_stuff/)
  Adds emerald tools and armor to Mineclone 2 (5)
 
 ![Screenshot](https://content.minetest.net/uploads/e6ac80362a.png)
